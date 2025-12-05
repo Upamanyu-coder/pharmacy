@@ -1,14 +1,15 @@
 # pharmacy
 ----------------
 
-Add collaborators to this repository
+Add collaborators to this repository.
 Search for people using their GitHub username or email address.
 
 ******************************************************************
 
-Quick setup — if you’ve done this kind of thing before
-or	
+Quick setup — if you’ve done this kind of thing before.
+or	.
 https://github.com/Upamanyu-coder/pharmacy.git
+
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 ******************************************************************
