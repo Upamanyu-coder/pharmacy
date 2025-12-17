@@ -1,5 +1,5 @@
 # pharmacy Website
-#*Prathana Pharmacy*
+*Prathana Pharmacy* Because Every Dose Matters. 
 ----------------
 
 Add collaborators to this repository.
