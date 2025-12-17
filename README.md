@@ -1,4 +1,5 @@
-# pharmacy
+# pharmacy Website
+#*Prathana Pharmacy*
 ----------------
 
 Add collaborators to this repository.
